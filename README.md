@@ -7,7 +7,7 @@ To acquire a position in the tech industry and utilize the experience I have gai
 Extensive experience in Networking and System Repair/Diagnostic/Upgrade including PC and Laptop. My background in the technical field has given me necessary skills in modern software applications including Microsoft Suites, Windows, Linux, and many more.
 
 
-CORE COMPETENCIES:
+<h3>CORE COMPETENCIES:</h3>
 
 Networking / Cabling / Wireless
 OS / Software Install
@@ -18,9 +18,9 @@ Hardware Troubleshooting
 Windows / Android / OS X / iOS / Cisco IOS
 Coding in modern languages JavaScript / PHP / HTML / CSS 
 
-CAREER PROGRESSION:
+<h3>CAREER PROGRESSION:</h3>
 
-www.KellerTCS.com: on-call computer repair, networking and maintenance for home and business.			11/2012 - present.
+jason.kellertcs.com: on-call computer repair, networking and maintenance for home and business.			11/2012 - present.
 
 Peak Financial				2/2010 – 11/2012	IT Coordinator		Woodland Hills, CA
 

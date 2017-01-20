@@ -20,7 +20,7 @@ Coding in modern languages JavaScript / PHP / HTML / CSS
 
 <h3>CAREER PROGRESSION:</h3>
 
-<a href="jason.kellertcs.com">jason.kellertcs.com</a>: on-call computer repair, networking and maintenance for home and business.			11/2012 - present.
+<a href="#top">jason.kellertcs.com</a>: on-call computer repair, networking and maintenance for home and business.			11/2012 - present.
 
 Peak Financial				2/2010 – 11/2012	IT Coordinator		Woodland Hills, CA
 

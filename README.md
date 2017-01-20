@@ -1,40 +1,35 @@
 <h1><p align="center">Jason Keller</p></h1>
 
+<h3>OBJECTIVE:</h3>
+To acquire a position in the tech industry and utilize the experience I have gained over years of working with networked systems.
+
 <h3>QUALIFICATIONS:</h3>
 Extensive experience in Networking and System Repair/Diagnostic/Upgrade including PC and Laptop. My background in the technical field has given me necessary skills in modern software applications including Microsoft Suites, Windows, Linux, and many more.
 
-You can use the [editor on GitHub](https://github.com/KellerTCS/KellerTCS.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+CORE COMPETENCIES:
 
-### Markdown
+Networking / Cabling / Wireless
+OS / Software Install
+OS / Software Troubleshooting
+PC Repair and Maintenance
+Peripheral and Accessory Repair
+Hardware Troubleshooting
+Windows / Android / OS X / iOS / Cisco IOS
+Coding in modern languages JavaScript / PHP / HTML / CSS 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+CAREER PROGRESSION:
 
-```markdown
-Syntax highlighted code block
+www.KellerTCS.com: on-call computer repair, networking and maintenance for home and business.			11/2012 - present.
 
-# Header 1
-## Header 2
-### Header 3
+Peak Financial				2/2010 – 11/2012	IT Coordinator		Woodland Hills, CA
 
-- Bulleted
-- List
+We Imagine, Inc.				5/2006 – 10/2008	Test Technician		Chatsworth, CA
 
-1. Numbered
-2. List
+Nexicore Services				6/2005 – 4/2006	Repair Technician	Simi Valley, CA
 
-**Bold** and _Italic_ and `Code` text
+R-Team					2/2002 – 6/2002	Intern			Simi Valley, CA
 
-[Link](url) and ![Image](src)
-```
+Assisted all aspects of this retail computer repair shop.  Completed in-store repairs and went on outside sales/repair calls.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KellerTCS/KellerTCS.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Prospective employers: Please contact me by email Jason@KellerTCS.com or by phone (818) 457-6420

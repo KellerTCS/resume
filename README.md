@@ -6,13 +6,9 @@ To acquire a position in the tech industry and utilize the experience I have gai
 <h3>QUALIFICATIONS:</h3>
 Extensive experience in Networking and System Repair/Diagnostic/Upgrade including PC and Laptop. My background in the technical field has given me necessary skills in modern software applications including Microsoft Suites, Windows, Linux, and many more.
 
-
-
-				<h1>Work Experience</h1>
-			</div>
-			
-			<div class="sectionContent">
-				<article>
+<h1>Work Experience</h1>
+<div class="sectionContent">
+<article>
 					<h2>jason.kellertcs.com</h2>
 					<p class="subDetails">November 2012 - Present</p>
 					<p>On-call computer repair, networking and maintenance for home and business.</p>

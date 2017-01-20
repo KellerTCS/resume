@@ -1,4 +1,4 @@
-<p align="center">## Jason Keller</p>
+#<p align="center">Jason Keller</p>
 
 You can use the [editor on GitHub](https://github.com/KellerTCS/KellerTCS.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

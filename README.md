@@ -1,5 +1,6 @@
-<h1><p id="name" align="center">Jason Keller</p></h1>
-
+<div id="name">
+<h1><palign="center">Jason Keller</p></h1>
+</div>
 <h3>OBJECTIVE:</h3>
 To acquire a position in the tech industry and utilize the experience I have gained over years of working with networked systems.
 <div class="qualifications">

@@ -1,4 +1,4 @@
-<h1><p align="center">Jason Keller</p></h1>
+<h1><p id="name" align="center">Jason Keller</p></h1>
 
 <h3>OBJECTIVE:</h3>
 To acquire a position in the tech industry and utilize the experience I have gained over years of working with networked systems.
@@ -20,7 +20,7 @@ Coding in modern languages JavaScript / PHP / HTML / CSS
 
 <h3>CAREER PROGRESSION:</h3>
 
-<a href="#top">jason.kellertcs.com</a>: on-call computer repair, networking and maintenance for home and business.			11/2012 - present.
+<a href="#name">jason.kellertcs.com</a>: on-call computer repair, networking and maintenance for home and business.			11/2012 - present.
 
 Peak Financial				2/2010 – 11/2012	IT Coordinator		Woodland Hills, CA
 

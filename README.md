@@ -7,22 +7,7 @@ To acquire a position in the tech industry and utilize the experience I have gai
 Extensive experience in Networking and System Repair/Diagnostic/Upgrade including PC and Laptop. My background in the technical field has given me necessary skills in modern software applications including Microsoft Suites, Windows, Linux, and many more.
 
 
-<section>
-			<article>
-				<div class="sectionTitle">
-					<h1>Personal Profile</h1>
-				</div>
-				
-				<div class="sectionContent">
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer dolor metus, interdum at scelerisque in, porta at lacus. Maecenas dapibus luctus cursus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.</p>
-				</div>
-			</article>
-			<div class="clear"></div>
-		</section>
-		
-		
-		<section>
-			<div class="sectionTitle">
+
 				<h1>Work Experience</h1>
 			</div>
 			
@@ -42,10 +27,8 @@ Extensive experience in Networking and System Repair/Diagnostic/Upgrade includin
 				</article>
 			</div>
 			<div class="clear"></div>
-		</section>
+	
 		
-		
-		<section>
 			<div class="sectionTitle">
 				<h1>Key Skills</h1>
 			</div>
@@ -63,4 +46,3 @@ Extensive experience in Networking and System Repair/Diagnostic/Upgrade includin
 				</ul>
 			</div>
 			<div class="clear"></div>
-		</section>

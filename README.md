@@ -1,6 +1,4 @@
-<div id="name">
-<h1><palign="center">Jason Keller</p></h1>
-</div>
+<h1><p align="center">Jason Keller</p></h1>
 <h3>OBJECTIVE:</h3>
 To acquire a position in the tech industry and utilize the experience I have gained over years of working with networked systems.
 <div class="qualifications">
@@ -10,7 +8,7 @@ Extensive experience in Networking and System Repair/Diagnostic/Upgrade includin
 <h1>Work Experience</h1>
 <div class="sectionContent">
 <article>
-<h2><a href="#name">kellertcs.com</a></h2>
+<h2><a href="#top">kellertcs.com</a></h2>
 <p class="subDetails">November 2012 - Present</p>
 <p>On-call computer repair, networking and maintenance for home and business.</p>
 </article>

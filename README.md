@@ -7,29 +7,60 @@ To acquire a position in the tech industry and utilize the experience I have gai
 Extensive experience in Networking and System Repair/Diagnostic/Upgrade including PC and Laptop. My background in the technical field has given me necessary skills in modern software applications including Microsoft Suites, Windows, Linux, and many more.
 
 
-<h3>CORE COMPETENCIES:</h3>
-
-Networking / Cabling / Wireless
-OS / Software Install
-OS / Software Troubleshooting
-PC Repair and Maintenance
-Peripheral and Accessory Repair
-Hardware Troubleshooting
-Windows / Android / OS X / iOS / Cisco IOS
-Coding in modern languages JavaScript / PHP / HTML / CSS 
-
-<h3>CAREER PROGRESSION:</h3>
-
-<a href="#top">jason.kellertcs.com</a>: on-call computer repair, networking and maintenance for home and business.			11/2012 - present.
-
-Peak Financial				2/2010 – 11/2012	IT Coordinator		Woodland Hills, CA
-
-We Imagine, Inc.				5/2006 – 10/2008	Test Technician		Chatsworth, CA
-
-Nexicore Services				6/2005 – 4/2006	Repair Technician	Simi Valley, CA
-
-R-Team					2/2002 – 6/2002	Intern			Simi Valley, CA
-
-Assisted all aspects of this retail computer repair shop.  Completed in-store repairs and went on outside sales/repair calls.
-
-Prospective employers: Please contact me by email Jason@KellerTCS.com or by phone (818) 457-6420
+<section>
+			<article>
+				<div class="sectionTitle">
+					<h1>Personal Profile</h1>
+				</div>
+				
+				<div class="sectionContent">
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer dolor metus, interdum at scelerisque in, porta at lacus. Maecenas dapibus luctus cursus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.</p>
+				</div>
+			</article>
+			<div class="clear"></div>
+		</section>
+		
+		
+		<section>
+			<div class="sectionTitle">
+				<h1>Work Experience</h1>
+			</div>
+			
+			<div class="sectionContent">
+				<article>
+					<h2>jason.kellertcs.com</h2>
+					<p class="subDetails">November 2012 - Present</p>
+					<p>On-call computer repair, networking and maintenance for home and business.</p>
+				</article>
+				<article>
+					<h2>IT Coordinator at Peak Financial</h2>
+					<p class="subDetails">Febuary 2010 - November 2012</p>
+				</article>
+				<article>
+					<h2>Test Technician at We Imagine, Inc.</h2>
+					<p class="subDetails">May 2006 - October 2008</p>
+				</article>
+			</div>
+			<div class="clear"></div>
+		</section>
+		
+		
+		<section>
+			<div class="sectionTitle">
+				<h1>Key Skills</h1>
+			</div>
+			
+			<div class="sectionContent">
+				<ul class="keySkills">
+					<li>Networking / Cabling / Wireless</li>
+					<li>OS / Software Install</li>
+					<li>OS / Software Troubleshooting</li>
+					<li>PC Repair and Maintenance</li>
+					<li>Peripheral and Accessory Repair</li>
+					<li>Hardware Troubleshooting</li>
+					<li>Windows / Android / OS X / iOS / Cisco IOS</li>
+					<li>Coding in modern languages JavaScript / PHP / HTML / CSS</li>
+				</ul>
+			</div>
+			<div class="clear"></div>
+		</section>

@@ -6,24 +6,25 @@ To acquire a position in the tech industry and utilize the experience I have gai
 <h3>QUALIFICATIONS:</h3>
 Extensive experience in Networking and System Repair/Diagnostic/Upgrade including PC and Laptop. My background in the technical field has given me necessary skills in modern software applications including Microsoft Suites, Windows, Linux, and many more.
 </div>
-<h1>Work Experience</h1>
+
+<h3>Work Experience</h3>
 <div class="sectionContent">
 <article>
-<h2><a href="#top">kellertcs.com</a></h2>
+<h4><a href="#top">kellertcs.com</a></h4>
 <p class="subDetails">November 2012 - Present</p>
 <p>On-call computer repair, networking and maintenance for home and business.</p>
 </article>
 <article>
-<h2>IT Coordinator at Peak Financial</h2>
+<h4>IT Coordinator at Peak Financial</h4>
 <p class="subDetails">Febuary 2010 - November 2012</p>
 </article>
 <article>
-<h2>Test Technician at We Imagine, Inc.</h2>
+<h4>Test Technician at We Imagine, Inc.</h4>
 <p class="subDetails">May 2006 - October 2008</p>
 </article>
 </div>
 <div class="sectionTitle">
-<h1>Key Skills</h1>
+<h3>Key Skills</h3>
 </div>
 <div class="sectionContent">
 <ul class="keySkills">

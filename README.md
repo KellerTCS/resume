@@ -10,8 +10,10 @@
   * On-call computer repair, networking and maintenance for home and business.
 <hr>
 <h4>IT Coordinator at Peak Financial, 2010 - 2013</h4>
+  * Network systems management and Help Desk.
 <hr>
 <h4>Test Technician at We Imagine, Inc., 2006 - 2009</h4>
+  * Testing and certifying electronic components.
 <hr>
 <h3>Key Skills</h3>
 <ul class="keySkills">

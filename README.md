@@ -1,3 +1,7 @@
+<h1 align="center">Cover Letter</h1>
+<p>Please considder me for the current opening in the Alemani HS tech department.
+I have a broad base of knowledge in the tech feilds including coding, networking, and hardware/software troubleshooting on PC Mac and Linux.</p>
+
 <h1 align="center">Jason Keller</h1>
 <p align="center">Jason@kellertcs.com | 818-457-6420</p>
 <h3>OBJECTIVE</h3>

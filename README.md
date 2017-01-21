@@ -12,7 +12,7 @@
 
 <h4>IT Coordinator at Peak Financial</h4> <p class="subDetails">Febuary 2010 - November 2012</p>
 
-<h4>Test Technician at We Imagine, Inc.</h4> <p class="subDetails">May 2006 - October 2008</p>
+<h4>Test Technician at We Imagine, Inc. May 2006 - October 2008</h4>
 
 <h3>Key Skills</h3>
 <ul class="keySkills">

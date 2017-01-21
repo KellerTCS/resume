@@ -2,11 +2,8 @@
 <p align="center">Jason@kellertcs.com | 818-457-6420</p>
 <h3>OBJECTIVE:</h3>
 To acquire a position in the tech industry and utilize the experience I have gained over years of working with networked systems.
-<div class="qualifications">
 <h3>QUALIFICATIONS:</h3>
 Extensive experience in Networking and System Repair/Diagnostic/Upgrade including PC and Laptop. My background in the technical field has given me necessary skills in modern software applications including Microsoft Suites, Windows, Linux, and many more.
-</div>
-
 <h3>Work Experience</h3>
 <div class="sectionContent">
 <article>

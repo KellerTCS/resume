@@ -4,11 +4,10 @@
 <p>To acquire a position in the tech industry and utilize the experience I have gained over years of working with networked systems.</p>
 <h3>QUALIFICATIONS</h3>
 <p>Extensive experience in Networking and System Repair/Diagnostic/Upgrade including PC and Laptop. My background in the technical field has given me necessary skills in modern software applications including Microsoft Suites, Windows, Linux, and many more.</p>
+
 <h3>Professional Experience</h3>
-
-
-<h4><a href="#top">www.kellertcs.com</a> 2013 - present</h4> 
-<p>On-call computer repair, networking and maintenance for home and business.</p>
+<h4><a href="#top">www.kellertcs.com</a>, 2013 - present</h4> 
+<p>* On-call computer repair, networking and maintenance for home and business.</p>
 
 <h4>IT Coordinator at Peak Financial, 2010 - 2013</h4>
 

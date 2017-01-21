@@ -6,13 +6,13 @@
 <p>Networking and System Repair/Diagnostic/Upgrade including PC and Laptop. My background in the technical field has given me necessary skills in modern software applications including Microsoft Suites, Windows, Linux, and many more.</p>
 
 <h2>Professional Experience</h2>
-<h4><a href="#top">www.kellertcs.com</a>, 2013 - present</h4> 
+<h4><a href="#top">www.kellertcs.com</a> | 2013 - present</h4> 
   * On-call computer repair, networking and maintenance for home and business.
 <hr>
-<h4>IT Coordinator at Peak Financial, 2010 - 2013</h4>
+<h4>IT Coordinator at Peak Financial | 2010 - 2013</h4>
   * Network systems management and Help Desk.
 <hr>
-<h4>Test Technician at We Imagine, Inc., 2006 - 2009</h4>
+<h4>Test Technician at We Imagine, Inc. | 2006 - 2009</h4>
   * Testing and certifying electronic components.
 <hr>
 <h3>Key Skills</h3>

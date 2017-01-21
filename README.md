@@ -1,9 +1,9 @@
 <h1 align="center">Jason Keller</h1>
 <p align="center">Jason@kellertcs.com | 818-457-6420</p>
 <h3>OBJECTIVE</h3>
-<p>To acquire a position in the tech industry and utilize the experience I have gained over years of working with networked systems.</p>
+<p>To acquire a position in the tech industry and utilize my experience from years of working with networked systems.</p>
 <h3>QUALIFICATIONS</h3>
-<p>Extensive experience in Networking and System Repair/Diagnostic/Upgrade including PC and Laptop. My background in the technical field has given me necessary skills in modern software applications including Microsoft Suites, Windows, Linux, and many more.</p>
+<p>Networking and System Repair/Diagnostic/Upgrade including PC and Laptop. My background in the technical field has given me necessary skills in modern software applications including Microsoft Suites, Windows, Linux, and many more.</p>
 
 <h2>Professional Experience</h2>
 <h4><a href="#top">www.kellertcs.com</a>, 2013 - present</h4> 

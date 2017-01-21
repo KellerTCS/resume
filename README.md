@@ -1,5 +1,5 @@
 <h1 align="center">Cover Letter</h1>
-<p>Please considder me for the current opening in the Bishop Alemany High School tech department. I have a broad base of knowledge in the tech feilds including coding, networking, and hardware/software troubleshooting on PC Mac and Linux. I am intersted in interviewing for the position and learning more about the the daily resposibilities.</p>
+<p>Please considder me for the current opening in the Bishop Alemany High School tech department. I have a broad base of knowledge in tech feilds including coding, networking, and hardware/software troubleshooting on PC Mac and Linux. I am intersted in interviewing for the position and learning more about the the daily resposibilities.</p>
 
 <h1 align="center">Jason Keller</h1>
 <p align="center">Jason@kellertcs.com | 818-457-6420</p>

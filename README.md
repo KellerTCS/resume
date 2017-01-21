@@ -10,9 +10,13 @@
 <li>On-call computer repair, networking and maintenance for home and business.</li>
 <hr>
 <h4>IT Coordinator at Peak Financial, 2010 - 2013</h4>
-
+<hr>
 <h4>Test Technician at We Imagine, Inc., 2006 - 2009</h4>
-
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+<hr>
 <h3>Key Skills</h3>
 <ul class="keySkills">
 <li>Networking / Cabling / Wireless</li>

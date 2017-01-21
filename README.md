@@ -1,5 +1,5 @@
 <h1><p align="center">Jason Keller</p></h1>
-<p>Contact | Jason@kellertcs.com | 818-457-6420</p>
+<p>Jason@kellertcs.com | 818-457-6420</p>
 <h3>OBJECTIVE:</h3>
 To acquire a position in the tech industry and utilize the experience I have gained over years of working with networked systems.
 <div class="qualifications">

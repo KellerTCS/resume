@@ -7,12 +7,12 @@
 <h3>Professional Experience</h3>
 
 
-<h4><a href="#top">www.kellertcs.com</a></h4> <p class="subDetails">November 2012 - Present</p>
+<h4><a href="#top">www.kellertcs.com</a> 2013 - present</h4> 
 <p>On-call computer repair, networking and maintenance for home and business.</p>
 
-<h4>IT Coordinator at Peak Financial</h4> <p class="subDetails">Febuary 2010 - November 2012</p>
+<h4>IT Coordinator at Peak Financial, 2010 - 2013</h4>
 
-<h4>Test Technician at We Imagine, Inc. May 2006 - October 2008</h4>
+<h4>Test Technician at We Imagine, Inc., 2006 - 2009</h4>
 
 <h3>Key Skills</h3>
 <ul class="keySkills">

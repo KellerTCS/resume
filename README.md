@@ -7,7 +7,7 @@
 
 <h3>Professional Experience</h3>
 <h4><a href="#top">www.kellertcs.com</a>, 2013 - present</h4> 
-<p>* On-call computer repair, networking and maintenance for home and business.</p>
+<li>On-call computer repair, networking and maintenance for home and business.</li>
 
 <h4>IT Coordinator at Peak Financial, 2010 - 2013</h4>
 

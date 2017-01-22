@@ -1,7 +1,7 @@
 <h1 align="center">Cover Letter</h1>
-<p>Dear Mr ___
-Please considder me for the current opening at Bishop Alemany High School Technology Department. My background includes working as a help desk tech for a financial conglomerate where I helped manage an intranet connecting multiple buildings and companies. Most recently I have transitioned over to my personal buisness where I offer tech support to homes and business. 
-Previously, I have worked as a referbish technition, where I gained experience troubleshooting and repairing electronic equipment in a fast paced setting. I am a self-motivated quick learner with a positive atitude. I believe i will be an effective member of  the Alemany Technology Department.</p>
+<h3>Dear Mr ___</h3>
+<p>Please considder me for the current opening at Bishop Alemany High School Technology Department. My background includes working as a help desk tech for a financial conglomerate where I helped manage an intranet connecting multiple buildings and companies. Most recently I have transitioned over to my personal buisness where I offer tech support to homes and business.</p>
+<p>Previously, I have worked as a referbish technition, where I gained experience troubleshooting and repairing electronic equipment in a fast paced setting. I am a self-motivated quick learner with a positive atitude. I believe i will be an effective member of  the Alemany Technology Department.</p>
 
 <p>In my free time I like to learn about computer programing and ocasionally play videogames.</p>
 

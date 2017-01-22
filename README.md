@@ -11,7 +11,7 @@
 <h3>OBJECTIVE</h3>
 <p>To acquire a position in the tech industry and utilize my experience from years of working with networked systems.</p>
 <h3>QUALIFICATIONS</h3>
-<p>Networking and System Repair/Diagnostic/Upgrade including PC and Laptop. My background in the technical field has given me necessary skills in modern software applications including Microsoft Suites, Windows, Linux, and Mac.</p>
+<p>Networking and System Repair/Diagnostic/Upgrade including PC, Laptop, and Tablet computers. My background in the technical field has given me necessary skills in modern software applications including Microsoft Suites, Windows, Linux, and Mac.</p>
 
 <h2 align="center">Professional Experience</h2>
 <hr>

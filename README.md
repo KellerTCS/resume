@@ -8,6 +8,7 @@
 <p>Jason Keller</p>
 <hr>
 <hr>
+<h6 hidden>resume</h6>
 <h1 align="center">Jason Keller</h1>
 <p align="center"><a href="mailto:Jason@kellertcs.com">Jason@kellertcs.com</a> | (818) 457-6420</p>
 <h3>OBJECTIVE</h3>

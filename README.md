@@ -1,8 +1,8 @@
 <h1 align="center">Cover Letter</h1>
 <h3>Dear Mr. ___</h3>
-<p>Please considder me for the current opening at Bishop Alemany High School Technology Department. My background includes working as a help desk tech for a financial conglomerate where I helped manage an intranet connecting multiple buildings and companies. Most recently I have transitioned over to my personal buisness where I offer tech support to homes and business.</p>
-<p>Previously, I have worked as a referbish technition, where I gained experience troubleshooting and repairing electronic equipment in a fast paced setting. I am a self-motivated quick learner with a positive atitude. I believe i will be an effective member of  the Alemany Technology Department.</p>
-<p>I have a broad base of knowledge in the tech fields including coding, networking, and hardware/software troubleshooting on PC Mac and Linux. I am intersted in interviewing for and learning more about the position that is available. Feel free to contact me via email Jason@kellertcs.com  or phone (818) 457-6420. Thank you for your time!</p>
+<p>I would like to be considered for the current opening at Bishop Alemany High School Technology Department. My background includes working as a help desk tech for a financial conglomerate where I helped manage an intranet connecting multiple buildings and companies. Most recently I have transitioned over to my personal business where I offer tech support to homes and business.</p>
+<p>Previously, I have worked as a refurbish technician, where I gained experience troubleshooting and repairing electronic equipment in a fast paced setting. I am a self-motivated quick learner with a positive attitude. I believe i will be an effective member of the Alemany Technology Department.</p>
+<p>I have a broad base of knowledge in the tech fields including coding, networking, and hardware/software troubleshooting on PC Mac and Linux. I am interested in interviewing for and learning more about the position that is available. Feel free to contact me via email Jason@kellertcs.com or phone (818) 457-6420. Thank you for your time!</p>
 
 <p>Jason Keller</p>
 

@@ -5,7 +5,8 @@
 <p>I have a broad base of knowledge in the tech fields including coding, networking, and hardware/software troubleshooting on PC Mac and Linux. I am interested in interviewing for and learning more about the position that is available. Feel free to contact me via email Jason@kellertcs.com or phone (818) 457-6420. Thank you for your time!</p>
 
 <p>Jason Keller</p>
-
+<hr>
+<hr>
 <h1 align="center">Jason Keller</h1>
 <p align="center">Jason@kellertcs.com | 818-457-6420</p>
 <h3>OBJECTIVE</h3>

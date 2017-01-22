@@ -1,8 +1,9 @@
 <h1 align="center">Cover Letter</h1>
 <h3>Dear Mr. Chambers</h3>
-<p>I would like to be considered for the current opening at Bishop Alemany High School Technology Department. My background includes working as a help desk tech for a financial conglomerate where I helped manage an intranet connecting multiple buildings and companies. Most recently I have transitioned over to my personal business where I offer tech support to homes and business.</p>
-<p>Previously, I have worked as a refurbish technician, where I gained experience troubleshooting and repairing electronic equipment in a fast paced setting. I am a self-motivated quick learner with a positive attitude. I believe i will be an effective member of the Alemany Technology Department.</p>
-<p>I have a broad base of knowledge in the tech fields including coding, networking, and hardware/software troubleshooting on PC Mac and Linux. I am interested in interviewing for and learning more about the position that is available. Feel free to contact me via email Jason@kellertcs.com or phone (818) 457-6420. Thank you for your time!</p>
+<p>The current opening at Bishop Alemany High School Technology Department seems like it would be an excellent opportunity that I would like to be considered for. I have a broad base of knowledge in the tech fields including client & server administration, application development & programming, networking, and hardware/software troubleshooting on PC, Mac, Linux, Android that will make me an ideal candidate for this position.</p>
+<p>My background includes experience as a help desk technician for a financial conglomerate where my responsibility was administering an intranet for multiple buildings & companies systems. An electronic technician & refurbisher, where my responsibilities involved troubleshooting & repairing electronic equipment in a fast paced setting. And most recently I have transitioned over to my personal business where I now offer tech support to homes & businesses.</p>
+<p>I believe I will be an effective member of the Alemany Technology Department, and would be interested in learning more about the available position through an interview in the near future.</p>
+<p>Feel free to contact me via email Jason@kellertcs.com or phone (818) 457-6420. Thank you for your time!</p>
 
 <p>Jason Keller</p>
 <hr>

@@ -1,4 +1,4 @@
-<h1 align="center">Cover Letter</h1>
+<h1 id="hidden" align="center">Cover Letter</h1>
 <h3>Dear Mr. Chambers</h3>
 <p>The current opening at Bishop Alemany High School Technology Department seems like it would be an excellent opportunity that I would like to be considered for. I have a broad base of knowledge in the tech fields including client & server administration, application development & programming, networking, and hardware/software troubleshooting on PC, Mac, Linux, Android that will make me an ideal candidate for this position.</p>
 <p>My background includes experience as a help desk technician for a financial conglomerate where my responsibility was administering an intranet for multiple buildings & companies systems. An electronic technician & refurbisher, where my responsibilities involved troubleshooting & repairing electronic equipment in a fast paced setting. And most recently I have transitioned over to my personal business where I now offer tech support to homes & businesses.</p>

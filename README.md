@@ -9,7 +9,7 @@
 <hr>
 <hr>
 <h1 align="center">Jason Keller</h1>
-<p align="center"><a href="mailto:Jason@kellertcs.com">Jason@kellertcs.com</a> | 818-457-6420</p>
+<p align="center"><a href="mailto:Jason@kellertcs.com">Jason@kellertcs.com</a> | (818) 457-6420</p>
 <h3>OBJECTIVE</h3>
 <p>To acquire a position in the tech industry and utilize my experience from years of working with networked systems.</p>
 <h3>QUALIFICATIONS</h3>

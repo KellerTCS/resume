@@ -5,7 +5,7 @@
 <p hidden>I believe I will be an effective member of the Alemany Technology Department, and would be interested in learning more about the available position through an interview in the near future.</p>
 <p hidden>Feel free to contact me via email <a href="mailto:Jason@kellertcs.com">Jason@kellertcs.com</a> or phone (818) 457-6420. Thank you for your time!</p>
 
-<p>Jason Keller</p>
+<p hidden>Jason Keller</p>
 <hr>
 <hr>
 <small hidden>resume</small>

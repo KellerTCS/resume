@@ -1,11 +1,11 @@
 <small hidden>Cover Letter</small>
-<h3 hidden>Dear Mr. Chambers</h3>
-<p hidden>The current opening at Bishop Alemany High School Technology Department seems like it would be an excellent opportunity for which I would like to be considered. I have a broad base of knowledge in the tech fields including client & server administration, application development & programming, networking, and hardware/software troubleshooting on PC, Mac, Linux, Android that will make me an ideal candidate for this position.</p>
-<p hidden>My background includes experience as a help desk technician for a financial conglomerate where my responsibility was administering an intranet for multiple buildings & companies systems. An electronic technician & refurbisher, where my responsibilities involved troubleshooting & repairing electronic equipment in a fast paced setting. And most recently I have transitioned over to my personal business where I now offer tech support to homes & businesses.</p>
-<p hidden>I believe I will be an effective member of the Alemany Technology Department, and would be interested in learning more about the available position through an interview in the near future.</p>
-<p hidden>Feel free to contact me via email <a href="mailto:Jason@kellertcs.com">Jason@kellertcs.com</a> or phone (818) 457-6420. Thank you for your time!</p>
+<h3 >To Whom It May Concern</h3>
+<p >I am currently looking for a position in which I can utilize my experience. I have a broad base of knowledge in the tech fields including client & server administration, application development & programming, networking, and hardware/software troubleshooting on PC, Mac, Linux, Android that will make me an ideal adition to any team.</p>
+<p >My background includes experience as a help desk technician for a financial conglomerate where my responsibility was administering an intranet for multiple buildings & companies systems. An electronic technician & refurbisher, where my responsibilities involved troubleshooting & repairing electronic equipment in a fast paced setting. And most recently I have transitioned over to my personal business where I now offer tech support to homes & businesses.</p>
+<p >I believe I will be an effective member of your team, and would be interested in learning more about the available position through an interview in the near future.</p>
+<p >Feel free to contact me via email <a href="mailto:Jason@kellertcs.com">Jason@kellertcs.com</a> or phone (818) 457-6420. Thank you for your time!</p>
 
-<p hidden>Jason Keller</p>
+<p >Jason Keller</p>
 <hr>
 <hr>
 <small hidden>resume</small>
